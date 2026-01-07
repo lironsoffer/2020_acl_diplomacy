@@ -1,3 +1,9 @@
 .pytest_cache/
 .DS_Store
 */__pycache__
+.cursor/
+memory-bank/
+venv/
+poc/data/
+poc/models/
+poc/results/
